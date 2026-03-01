@@ -5,3 +5,9 @@ python setup.py
 
 ### preview level do jogo
 <img src="./preview/level-1.png" alt="" />
+
+### consutar comandos para salvar o projeto
+
+> * passo 1 adicionar na area de stage    ( git add . )
+> * passo 2 nome do commit rotulo do save ( git commit -m updated )
+> * passo 3 colocar na nuvem              ( git push )
