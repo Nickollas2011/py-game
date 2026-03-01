@@ -7,6 +7,7 @@ python setup.py
 
 ### preview level do jogo
 <img src="./preview/level-1.png" alt="" />
+<img src="./preview/level-2.png" alt="" />
 
 ### consutar comandos para salvar o projeto
 
