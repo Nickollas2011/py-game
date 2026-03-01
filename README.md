@@ -7,13 +7,20 @@ python setup.py
 
 ### preview level do jogo
 
-> * Level 1 do jogo
+> #### Level 1 do jogo
 <img src="./preview/level-1.png" alt="" /> <br />
 
-> * Level 2 do jogo
+> #### Level 2 do jogo
 <img src="./preview/level-2.png" alt="" /> <br />
 
+> #### Level 3 do jogo
+<img src="./preview/level-3.png" alt="" /> <br />
 
+> #### Level 4 do jogo
+<img src="./preview/game-over.png" alt="" /> <br />
+
+> #### Level 5 do jogo
+<img src="./preview/win.png" alt="" /> <br />
 
 ### consutar comandos para salvar o projeto
 
